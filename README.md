@@ -1,5 +1,4 @@
-Um Website para uma clínica de psicologia. Adaptado para vários tamanhos de tela.
+Um Website para uma clínica de psicologia, adaptado para vários tamanhos de tela, sendo esta adaptação feita com media queries (HTML & CSS).
 
-A Website for a psychology clinic. Adapted to many screen sizes.
 
-(HTML & CSS)
+
